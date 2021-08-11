@@ -1,0 +1,9 @@
+1                                                                                                    Page Number: #{PAGEHEADER@pagenumber}#            
+ Report Id : #{PAGEHEADER@reportid}#                                                                  Report Creation Date/Time: #{PAGEHEADER@rundatetime}#                   
+ ************************************************************************************************************************************
+                                                     EOD PARTNER SETTLEMENT REPORT
+                                            (All Non-Inclearing Exchange Partners In/Out Files)              CIDC Transit: #{PAGEHEADER@cidctransit}# 
+                                                                                                              Region Name: #{PAGEHEADER@cidctregion}#        
+ Exchange Window   : #{PAGEHEADER@exstdatetime}#                                                                                  Settlement Date: #{PAGEHEADER@stlmntdt}#
+ ************************************************************************************************************************************
+ 
